@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GraWZycie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraWZycie_jar</output-path>
+    <root id="archive" name="GraWZycie.jar">
+      <element id="module-output" name="GraWZycie" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
