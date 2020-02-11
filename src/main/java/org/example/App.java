@@ -19,7 +19,7 @@ public class App
 
         //game.getRows(); //czemu ten lombok nie dziala?
 
-        for (int i=0; i < 50 ; i++) {
+        for (int i=0; i < 500 ; i++) {
             clrscr();
 
             game.nextGeneration();
@@ -31,6 +31,7 @@ public class App
                 e.printStackTrace();
             }
         }
+
 
     }
 
