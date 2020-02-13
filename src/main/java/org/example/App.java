@@ -15,6 +15,7 @@ public class App
         LifeGame game = new LifeGame(10,10);
         game.createDefaulfBoard();
         game.showBoard();
+        //yyy
         //game.showNeighborsBoard();
 
         //game.getRows(); //czemu ten lombok nie dziala?
